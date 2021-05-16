@@ -15,7 +15,7 @@ https://toda4869.github.io/
 - 一个Staff列表页
 - 一个作者简介页面
 - 一个About页面
-！[截图]<https://github.com/toda4869/toda4869.github.io/blob/main/pic/about.png?raw=true>
+![截图](https://github.com/toda4869/toda4869.github.io/blob/main/pic/about.png?raw=true)
 ## 三、实验过程
 ### 1、按照课件里提供的教程完成前九步
 ### 2、安装nginx与此同时也可以在命令行用tree生成树结构
