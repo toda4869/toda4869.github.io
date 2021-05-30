@@ -3,8 +3,8 @@
 - 网址：
 上传整个step-by-step文件的仓库网址  https://github.com/toda4869/jekyll-toda4869.git
 上传实验报告网页的仓库网址与个人主页网址
-https://github.com/toda4869/toda4869.github.io.git
-https://toda4869.github.io/
+-https://github.com/toda4869/toda4869.github.io.git
+-https://toda4869.github.io/
 
 ## 一、网站目录结构
 ![dic.png](https://i.loli.net/2021/05/30/nlqjYSeLfcRzo8V.png)
@@ -32,5 +32,5 @@ https://toda4869.github.io/
 ## 四、总结
 - 主要问题出现在我实验过程的第三步，如何将代码放到自己的github中，首先我尝试了在本地网站中查看源代码d直接复制粘贴的方法，在GitHub中可以被成功编译也可以出现当前的静态界面。但是没有与之相关的其他页面，如果一个一个复制粘贴，未免太浪费时间。然后，我尝试将本地项目全部上传到GitHub的仓库中，上传是成功的。但利用GitHub提供的网址查看，界面显示并不完全（仍未解决）。
 - 一些其他问题：创建第二个仓库时，访问网址的改变，以及选择，如下。已解决。
- 
+- 以及最终采用图床上传图片，刚开始尝试将图片上传至GitHub仓库使用，未成功。
 - VScode中编写md文件会报错，尝试安装相关插件（未成功），将md文件改为html文件，可正常运行（暂时措施）。
