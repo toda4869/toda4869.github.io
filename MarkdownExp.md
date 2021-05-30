@@ -2,9 +2,9 @@
 
 - 网址：
 上传整个step-by-step文件的仓库网址  https://github.com/toda4869/jekyll-toda4869.git
-上传实验报告网页的仓库网址与个人主页网址
--https://github.com/toda4869/toda4869.github.io.git
--https://toda4869.github.io/
+- 上传实验报告网页的仓库网址与个人主页网址
+- https://github.com/toda4869/toda4869.github.io.git
+- https://toda4869.github.io/
 
 ## 一、网站目录结构
 ![dic.png](https://i.loli.net/2021/05/30/nlqjYSeLfcRzo8V.png)
