@@ -7,15 +7,22 @@ https://github.com/toda4869/toda4869.github.io.git
 https://toda4869.github.io/
 
 ## 一、网站目录结构
+![dic.png](https://i.loli.net/2021/05/30/nlqjYSeLfcRzo8V.png)
 ## 二、网站截图
 - 首页
+![home.png](https://i.loli.net/2021/05/30/t5IYd9DUxnhwMJs.png)
 - Blog列表页
+- ![blog.png](https://i.loli.net/2021/05/30/pwlQb3TJZXn5GvM.png)
 - 两篇Post
+- ![post1.png](https://i.loli.net/2021/05/30/yWxnQGIroMewp5T.png)
+- ![post2.png](https://i.loli.net/2021/05/30/EjfA4iyQTNlqsWM.png)
 - Staff列表页
 - 一个Staff列表页
+- ![staff1.png](https://i.loli.net/2021/05/30/hEnLPmecqUtjkp1.png)
 - 一个作者简介页面
+- ![staff2.png](https://i.loli.net/2021/05/30/OAmrjognNVvXT2R.png)
 - 一个About页面
-![截图](https://github.com/toda4869/toda4869.github.io/blob/main/pic/about.png?raw=true)
+![about.png](https://i.loli.net/2021/05/30/9CB1QxjygasETAL.png)
 ## 三、实验过程
 ### 1、按照课件里提供的教程完成前九步
 ### 2、安装nginx与此同时也可以在命令行用tree生成树结构
